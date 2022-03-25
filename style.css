@@ -8,11 +8,6 @@ body
     color: whitesmoke;
 }
 
-label 
-{
-    color: whitesmoke;
-}
-
 input {
     background-color: rgb(180, 151, 151);
     color: black;
