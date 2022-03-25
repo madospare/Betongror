@@ -1,0 +1,33 @@
+body 
+{
+    background-color: rgb(78, 65, 65);
+}
+
+h1 
+{
+    color: whitesmoke;
+}
+
+h3 
+{
+    color: whitesmoke;
+}
+
+h4 
+{
+    color: whitesmoke;
+}
+
+label 
+{
+    color: whitesmoke;
+}
+
+input {
+    background-color: rgb(180, 151, 151);
+    color: black;
+}
+
+.input {
+    width: 50px;
+}
