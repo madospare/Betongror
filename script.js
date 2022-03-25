@@ -21,7 +21,7 @@ form.addEventListener("submit", function(event)
     if (volum < 0) 
     {
         // Outputter en feilmelding om volumet blir mindre enn 0
-        volumEl.innerHTML = "Det oppsto en feil! Prøv på nytt.";
+        volumEl.innerHTML = "Det oppsto en feil! Prøv på nytt. PS: Volum av betongrøret kan ikke være 0!";
         literEl.innerHTML = "";
         sekkerEl.innerHTML = "";
         prisEl.innerHTML = ""; 
